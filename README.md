@@ -1,4 +1,4 @@
-![SunJiFengPlus's GitHub](https://github-readme-stats.vercel.app/api?username=SunJiFengPlus&show_icons=true&hide=stars)
+![SunJiFengPlus's GitHub](https://github-readme-stats.vercel.app/api?username=SunJiFengPlus&show_icons=true&hide=stars&count_private=true)
 
 
 <!--
