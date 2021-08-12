@@ -1,5 +1,11 @@
 ![SunJiFengPlus's GitHub](https://github-readme-stats.vercel.app/api?username=SunJiFengPlus&show_icons=true&hide=stars&count_private=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SunJiFengPlus&repo=nacos)](https://github.com/alibaba/nacos/issues?q=author%3ASunJiFengPlus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SunJiFengPlus&repo=incubator-dolphinscheduler)](https://github.com/apache/dolphinscheduler/issues?q=author%3ASunJiFengPlus)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SunJiFengPlus&repo=GildedRose-Refactoring-Kata-Java)](https://github.com/SunJiFengPlus/GildedRose-Refactoring-Kata-Java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SunJiFengPlus&repo=Line83-3)](https://github.com/SunJiFengPlus/Line83-3)
+
 
 <!--
 **SunJiFengPlus/SunJiFengPlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
